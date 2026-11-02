@@ -1,0 +1,7 @@
+.github/workflows/   @your-username
+
+# Anything touching auth requires the security team
+/src/auth/           @SudhakarUpadrasta
+
+# Migrations are highest-risk
+/migrations/         @SudhakarUpadrasta
